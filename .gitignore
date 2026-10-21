@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.pt
+images.tar.gz
+annotations.tar.gz
